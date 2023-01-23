@@ -7,6 +7,6 @@ import (
 )
 
 type AnimeService interface {
-	Add(ctx context.Context, anime model.Anime) error
-	Get(ctx context.Context, name string) (model.Anime, error)
+	AddAnime(ctx context.Context, anime model.Anime) error
+	GetAnime(ctx context.Context, name string) (model.Anime, error)
 }

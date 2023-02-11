@@ -12,4 +12,4 @@ transport, repo, and service dont ready yet.
 spike service broadcast and qisqus
 
 13-2-2023
-stuck for implementation mysql
+stuck for implementation mysql, but stay focus and continue to make a new feature for this project.

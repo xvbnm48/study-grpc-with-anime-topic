@@ -13,3 +13,4 @@ spike service broadcast and qisqus
 
 13-2-2023
 stuck for implementation mysql, but stay focus and continue to make a new feature for this project.
+keep trying for implementation mysql, and make a new feature for this project.

@@ -10,3 +10,6 @@ transport, repo, and service dont ready yet.
 
 9-2-2023
 spike service broadcast and qisqus
+
+13-2-2023
+stuck for implementation mysql

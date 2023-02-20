@@ -17,3 +17,6 @@ keep trying for implementation mysql, and make a new feature for this project.
 
 15-2-2023
 stuck for implementation main for this project!
+
+20-2-2023
+finish dado-1576

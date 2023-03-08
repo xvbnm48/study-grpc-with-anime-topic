@@ -41,3 +41,6 @@ continue for new task
 
 7-3-2023
 LETS GO TO IOT SQ
+
+8-3-2023
+bismillah bisa lolos proboation demi mama dan papa serta keluarga
